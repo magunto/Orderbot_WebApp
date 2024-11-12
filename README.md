@@ -1,0 +1,1 @@
+This is an Order Bot for a restaurant (Palace Pizza). It's role is to present restaurant's offering, take orders from customers, summarize the offering, ask options for delivery and payment. 
