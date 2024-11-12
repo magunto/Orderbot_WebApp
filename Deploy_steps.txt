@@ -1,0 +1,14 @@
+Render.com
+    1. Create and account and confirm with Github
+    2. instal gunicorn with pip
+    3. Create requirements.txt file with pip freeze
+    4. Sync repository to Github (repository needs to be public)
+    5. In Render choose New Webservice from public Github
+    6. in gunicorn change 'app' to '<name of the main application>'
+    7. Choose free tier, deploy
+
+Versel.com
+    1. Install vercel locally with 
+        (terminal) npm i -g vercel
+    2. Create a vercel.json file in the repository (point to 'main.py' app)
+    3. 
